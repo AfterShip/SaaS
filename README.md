@@ -5,14 +5,11 @@
 
 ### SMS
 - twilio
-- nexmo.com
-- plivo.com
 
 ### Monitoring
-- newrelic
+- [newrelic](http://newrelic.com/)
 - runscope
 - pingdom
-
 
 ### Continuous Integration
 - Travis CI
@@ -48,3 +45,6 @@
 
 ### Big Data & BI
 - google bigquery
+
+--- 
+You can find other SaaS from [stackshare.io](http://stackshare.io/categories)
