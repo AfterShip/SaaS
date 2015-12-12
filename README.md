@@ -13,7 +13,7 @@ If you know any tools better that that, please feel free to let us know!
 - twilio
 
 ### Monitoring
-- [newrelic](http://newrelic.com/)
+- [newrelic](http://newrelic.com/)  (alternative: stackdriver, datadog, librato, appdynamics)
 - runscope
 - pingdom
 
@@ -35,8 +35,7 @@ If you know any tools better that that, please feel free to let us know!
 - cloudflare
 
 ### Communication
-- telegram
-- slack
+- telegram (alternative: slack, basecamp, Asana, trello)
 
 ### Helpdesk
 - zendesk
@@ -53,4 +52,6 @@ If you know any tools better that that, please feel free to let us know!
 - google bigquery
 
 --- 
+# Find More
+
 You can find other SaaS from [stackshare.io](http://stackshare.io/categories)
