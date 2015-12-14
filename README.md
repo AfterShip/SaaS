@@ -4,6 +4,12 @@ Here are the list of SaaS that we are using.
 If you know any tools better that that, please feel free to let us know!
 
 
+### API SaaS / PaaS
+- swagger.io
+- mashape.com
+- apiary.io/
+
+
 ### Email
 - mandrill
 - sendgrid
