@@ -4,7 +4,7 @@ Last update: 2018 Mar
 
 Here are the list of SaaS that we are using.
 
-If you know any tools better that that, please feel free to let us know!
+If you know any tools better than that, please feel free to let us know!
 
 Features | Using | Alternative
 --- | --- | ---
