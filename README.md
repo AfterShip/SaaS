@@ -1,6 +1,6 @@
 # The SaaS that AfterShip is using
 
-Last update: 1st Feb 2020
+Last update: 8th Mar 2020
 
 Here are the list of SaaS that we are using.
 
@@ -13,6 +13,7 @@ Analytics | GA360, Mixpanel, chartmogul |
 API SaaS | stoplight.io
 Big Data & BI | Google BigQuery |
 Blog | Ghost |
+Chart Tools | LucidChart | Draw.io
 CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
 CMS | Contentful
@@ -20,21 +21,25 @@ Code Coverage | codecov.io |
 Communication | Slack, Zoom | Telegram
 Continuous Integration | Travis CI, Circle CI, Bitrise |
 Corporate Email | G Suite | 
-Design Portal | Dribbble, Zeplin |
+Design Tools | Adobe, Sketch, Dribbble, Zeplin |
+Device Managment | Jamf | 
+Developer Tools | PostmanApp |
 eSignature | DocuSign | 
 Helpdesk | Zendesk
 HR / Admin | Justlogin | mokahr.com
+Meeting room booking | Robinpowered | 
 Newsletter | Mailchimp |
+Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
 Proxy | ProxyMesh |
 Sales | Pipe Drive, Salesforce
-Search Engine | Algolia |
 Security | HackerOne |
-Server Monitoring | [Newrelic](http://newrelic.com/), Runscope, Pingdom, Statuspage.io, PagerDuty
+Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty
 SMS | Twilio |
 Source Code Control | GitHub, GitLab | 
-Ticket Tracking | JIRA | GitLab
+Ticket Tracking | JIRA | 
 Transactional Email | SendGrid | 
+Writing | Grammarly
 
 --- 
 # Find More
