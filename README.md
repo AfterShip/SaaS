@@ -13,7 +13,7 @@ Analytics | GA360, Mixpanel, chartmogul |
 API SaaS | stoplight.io
 Big Data & BI | Google BigQuery |
 Blog | Ghost |
-Chart Tools | LucidChart | Draw.io
+Chart Tools | Draw.io | 
 CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
 CMS | Contentful
