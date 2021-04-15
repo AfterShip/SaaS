@@ -17,7 +17,6 @@ Chart Tools | Draw.io |
 CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
 CMS | Contentful
-Code Coverage | codecov.io | 
 Communication | Slack, Zoom | Telegram
 Continuous Integration | Travis CI, Circle CI, Bitrise |
 Corporate Email | G Suite | 
