@@ -1,6 +1,6 @@
 # The SaaS that AfterShip is using
 
-Last update: 13th Apr 2021
+Last update: 20th Apr 2021
 
 Here are the list of SaaS that we are using.
 
@@ -17,7 +17,6 @@ Chart Tools | Draw.io |
 CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
 CMS | Contentful
-Code Coverage | codecov.io | 
 Communication | Slack, Zoom | Telegram
 Continuous Integration | Travis CI, Circle CI, Bitrise |
 Corporate Email | G Suite | 
