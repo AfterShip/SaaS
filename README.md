@@ -24,13 +24,12 @@ Design Tools | Adobe, Sketch, Dribbble, Zeplin |
 Device Managment | Jamf | 
 Developer Tools | PostmanApp |
 eSignature | DocuSign | 
-Helpdesk | Zendesk
+Helpdesk | Freshdesk
 HR / Admin | Justlogin | mokahr.com
 Meeting room booking | Robinpowered | 
 Newsletter | Mailchimp |
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
-Proxy | ProxyMesh |
 Sales | Pipe Drive, Salesforce
 Security | HackerOne |
 Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty, [Sentry](https://sentry.io)
