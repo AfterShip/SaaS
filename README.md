@@ -8,7 +8,7 @@ If you know any tools better than that, please feel free to let us know!
 
 Features | Using | Alternative
 --- | --- | ---
-Accounting | Expensify, Quickbooks | 
+Accounting | Expensify, Quickbooks, NetSuite | 
 Analytics | GA360, Mixpanel, chartmogul |
 API SaaS | stoplight.io, [readme.io](https://readme.io)
 Big Data & BI | Google BigQuery |
@@ -24,17 +24,17 @@ Design Tools | Adobe, Sketch, Dribbble, Zeplin |
 Device Managment | Jamf | 
 Developer Tools | PostmanApp |
 eSignature | DocuSign | 
-Helpdesk | Freshdesk
-HR / Admin | Justlogin | mokahr.com
+Helpdesk | Freshdesk | Zendesk
+HR / Admin | Justlogin | 
 Meeting room booking | Robinpowered | 
 Newsletter | Mailchimp |
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
 Sales | Pipe Drive, Salesforce
 Security | HackerOne |
-Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty, [Sentry](https://sentry.io)
+Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty
 SMS | Twilio |
-Source Code Control | GitHub, GitLab | 
+Source Code Control | GitHub | GitLab
 Ticket Tracking | JIRA | 
 Transactional Email | SendGrid | 
 Writing | Grammarly
