@@ -18,7 +18,7 @@ CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
 CMS | Contentful
 Communication | Slack, Zoom | Telegram
-Continuous Integration | Travis CI, Circle CI, Bitrise |
+Continuous Integration | Circle CI, Bitrise |
 Corporate Email | G Suite | 
 Design Tools | Adobe, Sketch, Dribbble, Zeplin |
 Device Managment | Jamf | 
