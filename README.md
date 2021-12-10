@@ -9,7 +9,7 @@ If you know any tools better than that, please feel free to let us know!
 Features | Using | Alternative
 --- | --- | ---
 Accounting | Expensify, Quickbooks, NetSuite | 
-Analytics | GA360, Mixpanel, chartmogul |
+Analytics | Chartmogul, Tableau |
 API SaaS | stoplight.io, [readme.io](https://readme.io)
 Big Data & BI | Google BigQuery |
 Blog | Ghost |
@@ -26,7 +26,7 @@ Developer Tools | PostmanApp |
 eSignature | DocuSign | 
 Helpdesk | Freshdesk | Zendesk
 HR / Admin | Justlogin | 
-Meeting room booking | Robinpowered | 
+Meeting room booking | Zoom Rooms | 
 Newsletter | Mailchimp |
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
