@@ -27,7 +27,7 @@ eSignature | DocuSign |
 Helpdesk | Freshdesk | Zendesk
 HR / Admin | Justlogin | 
 Meeting room booking | Zoom Rooms | 
-Newsletter | Mailchimp |
+Newsletter | SendGrid |
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
 Sales | Pipe Drive, Salesforce
