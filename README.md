@@ -13,30 +13,30 @@ Analytics | Chartmogul, Tableau |
 API SaaS | stoplight.io, [readme.io](https://readme.io)
 Big Data & BI | Google BigQuery |
 Blog | Ghost |
-Chart Tools | Draw.io | 
+Chart Tools | Draw.io, Excalidraw | 
 CDN DNS | Cloudflare |
 Cloud Storage | Google Drive |
-CMS | Contentful
+CMS | Contentful, Storyblok
 Communication | Slack, Zoom | Telegram
 Continuous Integration | Circle CI, Bitrise |
 Corporate Email | G Suite | 
-Design Tools | Adobe, Sketch, Dribbble, Zeplin |
+Design Tools | Figma, Sketch, Dribbble, Zeplin |
 Device Managment | Jamf | 
 Developer Tools | PostmanApp |
 eSignature | DocuSign | 
 Helpdesk | Freshdesk | Zendesk
-HR / Admin | Justlogin | 
+HR / Admin | Justlogin, Greenhouse, Moka | 
 Meeting room booking | Zoom Rooms | 
-Newsletter | SendGrid |
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
-Sales | Pipe Drive, Salesforce
+Sales | HubSpot, Pipe Drive
 Security | HackerOne |
 Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty
 SMS | Twilio |
 Source Code Control | GitHub | GitLab
-Ticket Tracking | JIRA | 
-Transactional Email | SendGrid | 
+Ticket Tracking | JIRA, Asana | 
+Transactional Email | SendGrid |
+wiki | Notion | 
 Writing | Grammarly
 
 --- 
