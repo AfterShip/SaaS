@@ -10,7 +10,7 @@ Features | Using | Alternative
 --- | --- | ---
 Accounting | Expensify, Quickbooks, NetSuite | 
 Analytics | Chartmogul, Tableau |
-API SaaS | stoplight.io, [readme.io](https://readme.io)
+API SaaS | stoplight.io
 Big Data & BI | Google BigQuery |
 Blog | Ghost |
 Chart Tools | Draw.io, Excalidraw | 
@@ -25,7 +25,7 @@ Device Managment | Jamf |
 Developer Tools | PostmanApp |
 eSignature | DocuSign | 
 Helpdesk | Freshdesk | Zendesk
-HR / Admin | Justlogin, Greenhouse, Moka | 
+HR / Admin | Justlogin, Greenhouse | 
 Meeting room booking | Zoom Rooms | 
 Payment / Subscription managment | Stripe | Chargebee
 Password managment | 1Password
