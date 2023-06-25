@@ -1,8 +1,6 @@
 # The SaaS that AfterShip is using
 
-Last update: 20th Apr 2021
-
-Here are the list of SaaS that we are using.
+Here is the list of SaaS that we are using.
 
 If you know any tools better than that, please feel free to let us know!
 
@@ -22,18 +20,18 @@ Continuous Integration | Circle CI, Bitrise |
 Corporate Email | G Suite | 
 Customer Engagement | Beamer, Crisp |
 Design Tools | Figma, Sketch, Dribbble, Zeplin |
-Device Managment | Jamf | 
+Device Management | Jamf | 
 Developer Tools | PostmanApp |
 eSignature | DocuSign | 
 Helpdesk | Freshdesk | Zendesk
 HR / Admin | Justlogin, Greenhouse | 
 Meeting room booking | Zoom Rooms | 
-Payment / Subscription managment | Stripe | Chargebee
-Password managment | 1Password
+Payment / Subscription management | Stripe | Chargebee
+Password management | 1Password
 Sales | HubSpot, Pipe Drive
 Security | HackerOne |
 SEO | Ahref, SEMRush, SEOTesting, Keywords Everywhere |
-Server Monitoring | [Newrelic](http://newrelic.com/), Pingdom, Statuspage.io, PagerDuty
+Server Monitoring | Newrelic, Pingdom, Statuspage.io, PagerDuty
 SMS | Twilio |
 Source Code Control | GitHub | GitLab
 Survey Widget | Hotjar |
