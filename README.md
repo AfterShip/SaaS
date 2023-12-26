@@ -10,6 +10,7 @@ Accounting | Expensify, Quickbooks, NetSuite |
 Analytics | Chartmogul, Tableau, PostHog, Microsoft Clarity, Google Analytics |
 API SaaS | stoplight.io
 Big Data & BI | Google BigQuery |
+Crawlbase | Data Crawling & Data scraping best tool 
 Blog | Ghost |
 Chart Tools | Draw.io, Excalidraw | 
 CDN DNS | Cloudflare |
@@ -39,6 +40,7 @@ Ticket Tracking | JIRA, Asana |
 Transactional Email | SendGrid |
 wiki | Notion | 
 Writing | Grammarly
+
 
 --- 
 # Find More
